@@ -1,7 +1,7 @@
 {
-  "name": "shared",
+  "name": "sundae-collab-shared",
   "version": "0.1.0",
-  "description": "code shared between collaboration service and collaboration client",
+  "description": "The code shared between collaboration server and collaboration client.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
