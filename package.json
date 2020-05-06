@@ -1,6 +1,6 @@
 {
   "name": "sundae-collab-shared",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The code shared between collaboration server and collaboration client.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,13 +17,13 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "@types/yup": "^0.26.34",
-    "jot": "https://github.com/prk3/jot.git",
+    "jot": "git+https://github.com/prk3/jot.git",
     "typescript": "^3.8.3",
     "yup": "^0.28.3"
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",
     "jest": "^25.1.0",
-    "ts-jest": "^25.2.1"
+    "ts-jest": "^25.5.0"
   }
 }
